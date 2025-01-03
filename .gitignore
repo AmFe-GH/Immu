@@ -1,0 +1,14 @@
+# Ignore
+./Code/beta_div_pcoa.py
+./Code/beta_div_pre_com.py
+./Code/meta_plot.ipynb
+./Code/microbe.py
+./Code/plot.ipynb
+./Code/plot2.ipynb
+./Code/test_meta.py
+./Code/test_NGS.py
+./Code/logs
+./COde/result
+.vscode
+Data/*
+!Data/.gitkeep
